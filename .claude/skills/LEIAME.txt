@@ -1,0 +1,2 @@
+Coloque aqui as skills do projeto, uma pasta por skill com um arquivo SKILL.md dentro.
+Cada uma define um procedimento fixo: padrão obrigatório, regras, bibliotecas permitidas e onde salvar o resultado.

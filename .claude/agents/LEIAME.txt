@@ -1,0 +1,2 @@
+Coloque aqui os subagents do projeto, um arquivo .md por agente.
+Cada um precisa de: name, description (quando invocar), tools, postura de trabalho e formato fixo de resposta.

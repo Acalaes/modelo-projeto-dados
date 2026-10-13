@@ -1,0 +1,15 @@
+# Dados: não versionados (podem conter informações pessoais)
+data/*
+!data/LEIAME.txt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
